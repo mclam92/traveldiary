@@ -3,3 +3,4 @@ This webpage was created for the final challenge in my IMT 549 Beginning Web Dev
 All images were taken by and owned by Michelle Lam. All of the images on this website are copyright Michelle Lam/michelleclam.com unless otherwise credited. All rights are reserved, and no usage or reproduction of any type may be made of any image taken by or copyright to Michelle Lam without the express permission of Michelle Lam or one of her accredited agents.
 
 Direct Link to Published Site:
+https://mclam92.github.io/traveldiary/challenge10-traveldiary/index.html
